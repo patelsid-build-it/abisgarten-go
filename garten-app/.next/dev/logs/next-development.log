@@ -1,0 +1,77 @@
+{"timestamp":"00:13:51.273","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.280","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.283","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection: \" Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.324","source":"Server","level":"ERROR","message":"⨯ PageNotFoundError: Cannot find module for page: route not found /_not-found/page"}
+{"timestamp":"00:13:51.873","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, open '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/.next/dev/static/development/_buildManifest.js.tmp.h6pzvs6rudi'"}
+{"timestamp":"00:13:51.876","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.888","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.890","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.896","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.898","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.908","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.910","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.913","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.915","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.921","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.922","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.924","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.925","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.927","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.928","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.932","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.933","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.935","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.936","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.939","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.940","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.943","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.944","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.946","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.949","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.954","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.955","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.958","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.960","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.964","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.966","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.971","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.972","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.977","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.983","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.985","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.986","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.989","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.990","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.994","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.994","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.997","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:51.998","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.001","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.002","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.004","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.006","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.010","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.012","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.021","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.025","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.035","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.038","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.041","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.042","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.054","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.057","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.066","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.069","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.077","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.078","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.082","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"00:13:52.084","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"45:39:36.180","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"45:39:36.188","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"169:19:29.754","source":"Server","level":"LOG","message":"✓ Compiled in 321ms"}
+{"timestamp":"169:19:31.420","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"169:19:31.423","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"169:19:31.424","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection: \" Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"169:24:04.030","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"169:24:04.032","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}
+{"timestamp":"169:24:04.033","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection: \" Error: ENOENT: no such file or directory, scandir '/Users/siddharthpatel/Documents/Abisgarten-go/garten-app/src/app'"}

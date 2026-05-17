@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "contact": "Kontakt aufnehmen",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "legal": "Rechtliches",
+    "navigation": "Navigation"
+  },
+  "hero": {
+    "title": "Premium Gartenpflege für Ihr Zuhause",
+    "description": "Wir verwandeln Ihren Garten in eine Wohlfühloase. Professionell, zuverlässig und mit viel Liebe zur Natur. Lehnen Sie sich zurück, wir übernehmen die Arbeit.",
+    "ctaPrimary": "Kostenloses Angebot",
+    "ctaSecondary": "Unsere Leistungen"
+  },
+  "expertise": {
+    "title": "Unsere Expertise",
+    "description": "Wir bieten ein umfassendes Spektrum an Dienstleistungen für die optimale Pflege und Gestaltung Ihrer Grünanlagen.",
+    "lawn": {
+      "title": "Rasenpflege",
+      "description": "Mähen, Vertikutieren, Düngen und Nachsäen für einen sattgrünen, dichten und gesunden Rasen das ganze Jahr über."
+    },
+    "hedges": {
+      "title": "Heckenschnitt",
+      "description": "Fachgerechter Form- und Pflegeschnitt für Hecken und Sträucher. Für dichten Wuchs und klare Konturen."
+    },
+    "trees": {
+      "title": "Baumpflege",
+      "description": "Professioneller Baumschnitt, Kronenpflege und Fällarbeiten unter Einhaltung aller Sicherheitsstandards."
+    },
+    "viewAll": "Alle Leistungen ansehen"
+  },
+  "cta": {
+    "title": "Bereit für Ihren Traumgarten?",
+    "description": "Kontaktieren Sie uns noch heute für ein unverbindliches Beratungsgespräch direkt bei Ihnen vor Ort.",
+    "button": "Jetzt Kontakt aufnehmen"
+  },
+  "footer": {
+    "description": "Ihr Partner für professionelle und zuverlässige Grünpflege.",
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetlerimiz",
+    "contact": "İletişim",
+    "imprint": "Künye",
+    "privacy": "Gizlilik",
+    "legal": "Yasal",
+    "navigation": "Navigasyon"
+  },
+  "hero": {
+    "title": "Eviniz İçin Premium Bahçe Bakımı",
+    "description": "Bahçenizi bir huzur vahasına dönüştürüyoruz. Profesyonel, güvenilir ve doğa sevgisiyle. Arkanıza yaslanın, işi bize bırakın.",
+    "ctaPrimary": "Ücretsiz Teklif",
+    "ctaSecondary": "Hizmetlerimiz"
+  },
+  "expertise": {
+    "title": "Uzmanlığımız",
+    "description": "Yeşil alanlarınızın en iyi şekilde bakımı ve tasarımı için kapsamlı hizmetler sunuyoruz.",
+    "lawn": {
+      "title": "Çim Bakımı",
+      "description": "Yıl boyu yemyeşil, sık ve sağlıklı bir çim için biçme, havalandırma, gübreleme ve tohumlama."
+    },
+    "hedges": {
+      "title": "Çit Kesimi",
+      "description": "Çitler ve çalılar için profesyonel şekillendirme ve bakım kesimi. Sık büyüme ve net hatlar için."
+    },
+    "trees": {
+      "title": "Ağaç Bakımı",
+      "description": "Tüm güvenlik standartlarına uygun profesyonel ağaç budama, taç bakımı ve kesim işlemleri."
+    },
+    "viewAll": "Tüm Hizmetleri Gör"
+  },
+  "cta": {
+    "title": "Hayalinizdeki bahçeye hazır mısınız?",
+    "description": "Doğrudan yerinde, bağlayıcı olmayan bir danışmanlık için bugün bizimle iletişime geçin.",
+    "button": "Şimdi İletişime Geçin"
+  },
+  "footer": {
+    "description": "Profesyonel ve güvenilir bahçe bakımı için partneriniz.",
+    "rights": "Tüm hakları saklıdır."
+  }
+}

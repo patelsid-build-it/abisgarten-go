@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact Us",
+    "imprint": "Imprint",
+    "privacy": "Privacy",
+    "legal": "Legal",
+    "navigation": "Navigation"
+  },
+  "hero": {
+    "title": "Premium Garden Care for Your Home",
+    "description": "We transform your garden into an oasis of well-being. Professional, reliable, and with a deep love for nature. Sit back, we'll do the work.",
+    "ctaPrimary": "Free Quote",
+    "ctaSecondary": "Our Services"
+  },
+  "expertise": {
+    "title": "Our Expertise",
+    "description": "We offer a comprehensive range of services for the optimal care and design of your green spaces.",
+    "lawn": {
+      "title": "Lawn Care",
+      "description": "Mowing, scarifying, fertilizing, and overseeding for a lush green, dense, and healthy lawn all year round."
+    },
+    "hedges": {
+      "title": "Hedge Trimming",
+      "description": "Professional shaping and maintenance pruning for hedges and shrubs. For dense growth and clear contours."
+    },
+    "trees": {
+      "title": "Tree Care",
+      "description": "Professional tree pruning, crown maintenance, and felling operations in compliance with all safety standards."
+    },
+    "viewAll": "View All Services"
+  },
+  "cta": {
+    "title": "Ready for your dream garden?",
+    "description": "Contact us today for a non-binding consultation directly on site.",
+    "button": "Contact Us Now"
+  },
+  "footer": {
+    "description": "Your partner for professional and reliable garden care.",
+    "rights": "All rights reserved."
+  }
+}
